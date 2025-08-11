@@ -1,0 +1,21 @@
+.logo img {
+  height: 40px;
+  width: auto;
+}
+
+@media (max-width: 600px) {
+  .header {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .nav-links {
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+
+  .nav-links a {
+    margin: 0.25rem 0;
+  }
+}
