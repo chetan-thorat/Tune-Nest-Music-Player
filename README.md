@@ -18,6 +18,7 @@ Tunenext is a music streaming web application built with ASP.NET (C#) for the ba
 🌐 Responsive frontend with React.js
 
 ☁️ Deployment on AWS
+
 ----------------------------------------------------------------------------------------------
 🛠️ Tech Stack
 
@@ -94,6 +95,7 @@ npm start
 
 
 App runs at http://localhost:3000.
+
 ----------------------------------------------------------------------------------
 ☁️ Deployment on AWS
 
@@ -102,12 +104,17 @@ Frontend deployed on AWS (e.g., S3 + CloudFront or EC2).
 Backend deployed on AWS (EC2 / Elastic Beanstalk).
 
 Database hosted on MongoDB Atlas.
+
 ----------------------------------------------------------------------------------------
 📌 Project Structure
 Tunenext/
+
 │── backend/         # ASP.NET Web API (C#)
+
 │── frontend/        # React.js frontend
+
 │── README.md        # Project documentation
+
 -----------------------------------------------------------------------------------
 🔮 Future Enhancements
 
